@@ -14,7 +14,7 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=🍎 苹果`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
-custom_proxy_group=💰 PayPal,`select`[]🇺🇸 美国节点`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
+custom_proxy_group=💰 PayPal`select`[]🇺🇸 美国节点`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
 custom_proxy_group=🔰 节点选择`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
 custom_proxy_group=🎥 Netflix`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
 custom_proxy_group=🎯 全球直连`select`[]🔰 节点选择`[]DIRECT
