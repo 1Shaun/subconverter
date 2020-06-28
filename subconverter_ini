@@ -17,7 +17,6 @@ custom_proxy_group=🍎 苹果`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 �
 custom_proxy_group=💰 PayPal,`select`[]🇺🇸 美国节点`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
 custom_proxy_group=🔰 节点选择`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
 custom_proxy_group=🎥 Netflix`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 中继`[]DIRECT
-custom_proxy_group=🌍 国外媒体`select`[]✈️ 专线`[]🚄 中继Pro`[]🚂 中继`[]🇹🇼 台湾节点
 custom_proxy_group=🎯 全球直连`select`[]🔰 节点选择`[]DIRECT
 custom_proxy_group=🛑 全球拦截`select`[]🔰 节点选择`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🔰 节点选择`[]DIRECT
